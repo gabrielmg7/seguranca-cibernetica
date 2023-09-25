@@ -1,4 +1,4 @@
-# **SEGURANÇA CIBERNÉTICA (ARA0076 / 7484656 / 2023.1) Turma 3002**
+# **SEGURANÇA CIBERNÉTICA (ARA0076 / 9410944 / 2023.2 SEMI) Turma 3005**
 
     👨🏾‍🏫 Professor: Daniel Pimenta
     📅 Segunda-Feira | 19h30 - 22h10
