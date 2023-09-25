@@ -3,7 +3,7 @@
     👨🏾‍🏫 Professor: Daniel Pimenta
     📅 Segunda-Feira | 19h30 - 22h10
     📍  VCRPS | TEAMS
-# 🎯 Objetivos da Disciplina
+## 🎯 Objetivos da Disciplina
 
 - ­Classificar a informação, com base no seu valor e sua criticidade, para construir um plano de ciber segurança alinhado às necessidades no negócio.
 - Analisar vulnerabilidades e ataques, com base no estudo de diferentes tipos de ameaças, a fim de criar estratégias e contra­medidas eficazes para mitigá­-las.
@@ -11,7 +11,7 @@
 - Projetar e configurar sistemas de proteção, com base em algoritmos e ferramentas, para garantir o funcionamento contínuo e seguro dos sistemas de TI.
 - Construir um plano de resposta à incidentes e recuperação de desastres, baseando­-se em normas e recomendações de segurança, para tratar incidentes, investigando, reportando e recuperando o ambiente dos danos causados.
 
-# 📋 Temas de Aprendizagem
+## 📋 Temas de Aprendizagem
 
 1. PRINCÍPIOS E CONCEITOS DE SEGURANÇA CIBERNÉTICA
     1. EVOLUÇÃO DA SEGURANÇA CIBERNÉTICA
